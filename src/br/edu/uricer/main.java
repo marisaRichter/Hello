@@ -5,7 +5,6 @@
  */
 package br.edu.uricer;
 
-import java.time.Clock;
 import java.util.Scanner;
 
 /**
